@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>API_KEY</key>
+	<string> c73ec98dae2d450a96d1d604504f6a64
+
+ c73ec98dae2d450a96d1d604504f6a64
+
+</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>CFBundleExecutable</key>
+	<string></string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>

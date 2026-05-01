@@ -16,7 +16,7 @@ struct NewsAPI {
     }()
 
     func fetch(from category: Category) async throws -> [Article] {
-        let apiKey = "df9fa45f7951467cb54266de175796e6"
+        let apiKey = Bundle.main.object(forInfoDictionaryKey: "API_KEY") as? String ?? ""
 
         let urlString = "https://newsapi.org/v2/everything?q=technology&sortBy=publishedAt&apiKey=\(apiKey)"
 
