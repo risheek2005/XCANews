@@ -1,0 +1,94 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Sarah Perez",
+      "title": "Apple announces M4 MacBook Pro with groundbreaking AI features",
+      "description": "Apple's latest MacBook Pro lineup brings unprecedented performance gains and deep AI integration across the entire macOS ecosystem.",
+      "url": "https://techcrunch.com",
+      "urlToImage": "https://picsum.photos/seed/apple/800/450",
+      "publishedAt": "2025-04-30T10:00:00Z",
+      "content": "Apple has unveiled its most powerful MacBook Pro lineup yet, featuring the new M4 chip that promises to revolutionize how professionals interact with their machines. The new chips bring a 40% improvement in CPU performance and a stunning 60% leap in GPU output compared to last year's M3. The on-device AI capabilities allow for real-time video transcription, intelligent photo editing, and a dramatically improved Siri experience.",
+      "category": "Technology"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "James Fletcher",
+      "title": "Champions League semi-finals: Thrilling night of football across Europe",
+      "description": "Four teams battled it out in the Champions League semi-finals, producing some of the most dramatic football seen this season.",
+      "url": "https://bbc.com/sport",
+      "urlToImage": "https://picsum.photos/seed/soccer/800/450",
+      "publishedAt": "2025-04-29T22:30:00Z",
+      "content": "An electric night of Champions League football saw two stunning comebacks and a last-minute winner that sent fans into frenzy. Real Madrid and Bayern Munich both advanced to the final after tense second-leg clashes. The match between PSG and Manchester City ended in a penalty shootout that will be talked about for years. Fans across Europe were glued to their screens as the drama unfolded over 180 minutes of intense football.",
+      "category": "Sports"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Michael Chen",
+      "title": "Global markets surge as inflation data eases fears of rate hikes",
+      "description": "Stock markets worldwide rallied on Friday after new inflation data came in below expectations, signaling potential relief from aggressive monetary policy.",
+      "url": "https://reuters.com",
+      "urlToImage": "https://picsum.photos/seed/stocks/800/450",
+      "publishedAt": "2025-04-29T14:00:00Z",
+      "content": "Markets rallied sharply on Friday after the latest Consumer Price Index report showed inflation cooling more than analysts expected. The S&P 500 gained 2.1%, the Nasdaq surged 2.8%, and European markets followed suit with broad gains. Economists now believe the Federal Reserve may pause its rate hiking cycle at the next meeting, giving businesses and consumers a much-needed reprieve. Bond yields fell sharply in response to the data.",
+      "category": "Business"
+    },
+    {
+      "source": { "id": "nasa", "name": "NASA" },
+      "author": "Dr. Lisa Park",
+      "title": "James Webb telescope captures deepest image of the early universe ever taken",
+      "description": "Scientists have released a new image from the James Webb Space Telescope showing galaxies formed just 300 million years after the Big Bang.",
+      "url": "https://nasa.gov",
+      "urlToImage": "https://picsum.photos/seed/space/800/450",
+      "publishedAt": "2025-04-28T09:00:00Z",
+      "content": "NASA scientists have published what they call the deepest, most detailed image of the early universe ever captured by a telescope. The image, taken by the James Webb Space Telescope, shows thousands of galaxies in various stages of formation, some existing just 300 million years after the Big Bang. Researchers say the data will help rewrite models of how galaxies form and evolve. The discovery was made possible by Webb's unprecedented infrared sensitivity.",
+      "category": "Science"
+    },
+    {
+      "source": { "id": "the-guardian", "name": "The Guardian" },
+      "author": "Emma Wilson",
+      "title": "World leaders agree on landmark climate deal at Geneva summit",
+      "description": "A historic climate agreement was reached at the Geneva summit, with 140 nations pledging to reach net-zero emissions by 2045.",
+      "url": "https://theguardian.com",
+      "urlToImage": "https://picsum.photos/seed/climate/800/450",
+      "publishedAt": "2025-04-27T16:00:00Z",
+      "content": "In a landmark moment for global climate diplomacy, 140 countries signed the Geneva Climate Accord on Friday, pledging to achieve net-zero carbon emissions by 2045. The agreement includes binding commitments to phase out coal by 2035, triple renewable energy capacity by 2030, and establish a $500 billion climate fund for developing nations. Activists called it a turning point, while critics warned that enforcement mechanisms remain too weak.",
+      "category": "General"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Alex Torres",
+      "title": "OpenAI launches GPT-5 with real-time reasoning and vision capabilities",
+      "description": "OpenAI's newest model represents a significant leap in reasoning ability, multimodal understanding, and real-world task execution.",
+      "url": "https://wired.com",
+      "urlToImage": "https://picsum.photos/seed/openai/800/450",
+      "publishedAt": "2025-04-26T11:30:00Z",
+      "content": "OpenAI has officially launched GPT-5, its most capable language model yet, featuring advanced real-time reasoning, extended context windows, and powerful new vision and audio capabilities. In benchmarks, GPT-5 outperforms its predecessor across nearly every tested domain, from coding and mathematics to creative writing and scientific reasoning. The model is available to ChatGPT Plus subscribers immediately and will roll out to API customers in phases over the coming weeks.",
+      "category": "Technology"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": "Rachel Kim",
+      "title": "Tesla reports record quarterly profits driven by energy division",
+      "description": "Tesla posted its highest-ever quarterly profit, with the energy storage and solar segment growing faster than the automotive business for the first time.",
+      "url": "https://bloomberg.com",
+      "urlToImage": "https://picsum.photos/seed/tesla/800/450",
+      "publishedAt": "2025-04-25T18:00:00Z",
+      "content": "Tesla Inc. reported record quarterly earnings on Wednesday, surpassing Wall Street expectations by a significant margin. For the first time in the company's history, the energy generation and storage segment outpaced automotive revenue growth, fueled by skyrocketing demand for Megapack battery installations from utilities worldwide. CEO Elon Musk called it a pivotal moment, suggesting the company is rapidly evolving from an automaker into a diversified energy company.",
+      "category": "Business"
+    },
+    {
+      "source": { "id": "sports-illustrated", "name": "Sports Illustrated" },
+      "author": "Dan Roberts",
+      "title": "NBA playoffs: Stunning upsets shake up bracket predictions",
+      "description": "The first round of the NBA playoffs delivered back-to-back upsets, with two top seeds eliminated in dramatic fashion.",
+      "url": "https://si.com",
+      "urlToImage": "https://picsum.photos/seed/basketball/800/450",
+      "publishedAt": "2025-04-24T20:00:00Z",
+      "content": "The NBA playoffs have already produced more drama than most full seasons, with two number-one seeds sent home in the opening round. The upset victories by the Oklahoma City Thunder and the Indiana Pacers sent shockwaves through the basketball world. Analysts are scrambling to reassess the remaining field, with no clear favorite emerging after the dust settled. Star players delivered signature performances on both sides of these historic upsets.",
+      "category": "Sports"
+    }
+  ]
+}
