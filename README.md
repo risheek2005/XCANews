@@ -86,7 +86,7 @@ To run this project:
 
 ## 👤 Author
 
-Your Name – Risheek Agarwal
+Name – Risheek Agarwal
 
 GitHub: https://github.com/risheek2005
 
